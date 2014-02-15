@@ -1,4 +1,4 @@
-requires 'perl', '5.008001';
+requires 'perl', '5.008002';
 requires 'Dummy1', 0, git => 'git://github.com/shoichikaji/dummy1.git';
 
 on 'test' => sub {
